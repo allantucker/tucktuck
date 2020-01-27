@@ -7,8 +7,8 @@
     // database config
     define('DB_SERVER', 'localhost');
     define('DB_USERNAME', 'root');
-    define('DB_PASSWORD', '');
-    define('DB_NAME', 'awstreams');
+    define('DB_PASSWORD', 'kja876dsf76FDFfdsF8524UYUYGygug');
+    define('DB_NAME', 'homedbftw');
 
     #endregion
 
