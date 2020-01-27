@@ -2,7 +2,7 @@
 
     #region define Constants
 
-    define('SITE_URL','http://localhost/btm/awstreams/');
+    define('SITE_URL','http://201.87.65.109/btm/homedbftw/');
 
     // database config
     define('DB_SERVER', '201.87.65.109');
